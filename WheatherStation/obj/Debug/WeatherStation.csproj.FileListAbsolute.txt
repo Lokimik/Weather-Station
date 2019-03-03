@@ -1,0 +1,35 @@
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.pdb
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache
+F:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+F:\Программирование\C#\WheatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+F:\Программирование\C#\WheatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
+E:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+E:\Программирование\C#\WheatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+E:\Программирование\C#\WheatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
+E:\Программирование\C#\WheatherStation\WheatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache
+E:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe
+E:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\WheatherStation.pdb
+E:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.dll
+E:\Программирование\C#\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+D:\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+D:\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
+D:\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe
+D:\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.pdb
+D:\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\WheatherStation\WheatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache
+D:\Weather_Station\WeatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+D:\Weather_Station\WeatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+D:\Weather_Station\WeatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
+D:\Weather_Station\WeatherStation\WheatherStation\bin\Debug\WheatherStation.exe
+D:\Weather_Station\WeatherStation\WheatherStation\bin\Debug\WheatherStation.pdb
+D:\Weather_Station\WeatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.dll
+D:\Weather_Station\WeatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.xml
+D:\Weather_Station\WeatherStation\WheatherStation\obj\Debug\WeatherStation.csprojResolveAssemblyReference.cache

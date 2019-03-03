@@ -1,0 +1,8 @@
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe.config
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.exe
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\WheatherStation.pdb
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.csprojResolveAssemblyReference.cache
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.exe
+C:\Users\Kozl_mp49\Documents\Visual Studio 2015\Projects\WheatherStation\WheatherStation\obj\Debug\WheatherStation.pdb
